@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm madhavan vv</h1>
 It's  a  Frontend  Web Development Project using HTML and CSS.
 
-## Website
+## Webpage
 
 ![image](./thumbnail.png)
 
