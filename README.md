@@ -9,4 +9,4 @@ It's  a  Frontend  Web Development Project using HTML and CSS.
 
 - While developing this webpage, I became more familiar with CSS background-image property , and HTML elements. It took around two hours to finish this project.
 
-- It is hosted on [Netlify](https://clinquant-cuchufli-4b24a3.netlify.app/)
+- It is hosted on [Netlify](https://loquacious-frangipane-08ba86.netlify.app//)
